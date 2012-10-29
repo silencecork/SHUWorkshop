@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="MyButtonStyle" parent="android:Widget.Button">
+         <item name="android:background">@drawable/btn_custom</item>
+         <item name="android:textColor">#FFFF00</item>
+    </style>
+    
+</resources>
